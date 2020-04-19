@@ -8,7 +8,7 @@
         "EnableManagedDebugging": false,
         "EnableMultiThreading": false,
         "EnableBurst": true,
-        "RootAssembly": "GlobalObjectId_V1-1-fcc94cc8659b14e08aab6830b0dec199-5897886265953266890-0",
+        "RootAssembly": "GlobalObjectId_V1-1-24dce245effa31040815612ac6ed3de4-5897886265953266890-0",
         "Target": "wasm",
         "Configuration": 3,
         "Pipeline": "GlobalObjectId_V1-1-56241f83dacec1141b7d967eb30bf934-93214019566545601-0",
